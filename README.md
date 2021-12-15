@@ -23,7 +23,7 @@ DEBUGGING:
 2. autocomplete="tel" instead autocomplete="tel-local"
 3. <iframe> now is out of <form>
 4. <label for> instead <p> for input headers
-5. <br />s are deleted
+5. <br />s deleted
 
 03_Button
 
